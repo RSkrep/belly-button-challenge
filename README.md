@@ -2,6 +2,8 @@
 
 for this challenge we were required to create a website using javascript to demonstare the data we collected 
 we did this in the 7 steps that follow
+
+
 1.Use the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
 
 2.Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
