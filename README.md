@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-for this challenge we were required to create a website using javascript to demonstare the data we collected 
+For this challenge we were required to create a website using javascript to demonstare the data we collected 
 we did this in the 7 steps that follow
 
 
@@ -32,5 +32,9 @@ we did this in the 7 steps that follow
 6.Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
 
 7.Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. 
+
+Here is the link for the final result posetd on github pages
+https://rskrep.github.io/belly-button-challenge/
+
 
 Completion process I would first attempt to solve each of the tasks using my memory, then I would look into the class notes and activities as a way to find out my next course of action when I was lost. After doing these steps I would consult ChatGPT to find out where I went wrong and would use its assistance to correct the code as well as explain its process to me so I could understand for the future how to fulfill these tasks without aid. When all else failed i would utalize the help of my fellow classmates and instructors to guide me in the right path
